@@ -3790,10 +3790,11 @@ input, select, textarea {
 		#main > footer {
 			text-align: center;
 		}
-
-		#main > .post {
+		
+		/* Atharva K - Removed excess looking padding */
+		/* #main > .post {
 			padding: 8rem 8rem 6rem 8rem ;
-		}
+		} */
 
 			#main > .post header.major > .date {
 				margin-top: -2rem;
